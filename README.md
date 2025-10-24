@@ -5,3 +5,5 @@ just a repo to test stuff on, starting with the nceas sessions
 
 - practicing
 - figuring it out
+
+- practice makes perfect perhaps
